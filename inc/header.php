@@ -41,7 +41,7 @@
    </button>
    <!-- back-to-top-end  -->
 
-   <header class="tp-header-height">
+   <header class="tp-header-height z-index-p-r ">
          <!-- tp-header-area-start -->
          <div id="header-sticky" class="tp-header-2__area header-sticky-bg-2 tp-header-2__transparent tp-header-2__plr z-index-3">
             <div class="container-fluid g-0">
@@ -91,7 +91,7 @@
                                  </ul>
                               </li>
                               <li>
-                                 <a href="blog-details.php">Blog</a>
+                                 <a href="blog.php">Blog</a>
                                  <!-- <ul class="submenu">
                                     <li><a href="blog.php">Blog</a></li>
                                     <li><a href="blog-list.php">Blog List</a></li>
