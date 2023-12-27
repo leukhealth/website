@@ -48,8 +48,8 @@
                <div class="row g-0 align-items-center">
                   <div class="col-xl-2 col-lg-2 col-md-6 col-6">
                      <div class="tp-header-2__logo">
-                        <a class="white-logo" href="index.php"><img class="w-70" src="assets/img/logo/leuk-logo.png" alt=""></a>
-                        <a class="black-logo" href="index.php"><img class="w-70" src="assets/img/logo/leuk-logo.png" alt=""></a>
+                        <a class="white-logo" href="index.php"><img class="w-60" src="assets/img/logo/leuk-logo-white.png" alt=""></a>
+                        <a class="black-logo" href="index.php"><img class="w-60" src="assets/img/logo/leuk-logo.png" alt=""></a>
                      </div>
                   </div>
                   <div class="col-xl-7 col-lg-7 d-none d-lg-block">
