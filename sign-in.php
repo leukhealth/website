@@ -4,7 +4,7 @@
 <head>
    <meta charset="utf-8">
    <meta http-equiv="x-ua-compatible" content="ie=edge">
-   <title>Softec - Data analytics HTML5 Template</title>
+   <title>Leuk Health - Data analytics HTML5 Template</title>
    <meta name="description" content="">
    <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -204,7 +204,7 @@
                   <div class="signin-banner-left-wrap">
                      <div class="signin-banner-title-box mb-100">
                         <h4 class="signin-banner-title tp-char-animation">Welcome To <br>
-                           Your Softec System.</h4>
+                           Your Leuk Health System.</h4>
                      </div>
                      <div class="signin-banner-img-box position-relative">
                         <div class="signin-banner-img signin-img-1 d-none d-md-block z-index-3">
@@ -225,7 +225,7 @@
                <div class="signin-banner-from d-flex justify-content-center align-items-center">
                   <div class="signin-banner-from-wrap">
                      <div class="signin-banner-title-box">
-                        <h4 class="signin-banner-from-title">Sign In to Softec</h4>
+                        <h4 class="signin-banner-from-title">Sign In to Leuk Health</h4>
                      </div>
                      <div class="signin-banner-login-browser">
                         <a href="#">

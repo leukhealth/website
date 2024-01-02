@@ -153,7 +153,7 @@
                         <div class="tp-about__section-box text-center mb-40">
                            <h4 class="inner-section-subtitle">OVER 150K+ CLIENT</h4>
                            <h3 class="tp-section-title">Accomplish more, Together</h3>
-                           <p>Softuch blog is your knowledge center for everything remote.</p>
+                           <p>Leuk Health blog is your knowledge center for everything remote.</p>
                         </div>
                      </div>
                   </div>

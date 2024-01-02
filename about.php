@@ -17,7 +17,7 @@
                            <div class="about-banner-content z-index-5">
                               <h4 class="about-banner-title" data-parallax='{"y": 1000, "smoothness": 10}'>
                                  <span>About</span> <br>
-                                 <span>Softec</span>
+                                 <span>Leuk Health</span>
                               </h4>
                            </div>
                         </div>
@@ -36,7 +36,7 @@
                            <div class="about-img-content">
                               <h4 class="about-img-title" data-parallax='{"y": 1000, "smoothness": 10}'>
                                  <span>About</span> <br>
-                                 <span>Softec</span>
+                                 <span>Leuk Health</span>
                               </h4>
                            </div>
                         </div>
@@ -55,7 +55,7 @@
                         <div class="col-12">
                            <div class="ab-brand-section-box text-center mb-50">
                               <h4 class="ab-brand-title">Trusted by Thousands Business</h4>
-                              <p>More than 100,000+ teams are using Softec</p>
+                              <p>More than 100,000+ teams are using Leuk Health</p>
                            </div>
                         </div>
                      </div>
@@ -122,7 +122,7 @@
                      <div class="col-xl-6">
                         <div class="ab-company-section-box">
                            <h4 class="inner-section-subtitle">ABOUT THE COMPANY</h4>
-                           <h3 class="tp-section-title">Softuch is Made <br>
+                           <h3 class="tp-section-title">Leuk Health is Made <br>
                               For the Creator.</h3>
                         </div>
                      </div>
@@ -267,10 +267,6 @@
                                  <i class="fab fa-facebook-f"></i>
                                  <span></span>
                               </a>
-                              <a class="icon-color-2" href="#">
-                                 <i class="fab fa-instagram"></i>
-                                 <span></span>
-                              </a>
                               <a class="icon-color-3" href="#">
                                  <i class="fab fa-twitter"></i>
                                  <span></span>
@@ -294,10 +290,6 @@
                            <div class="tp-team-social">
                               <a class="icon-color-1" href="#">
                                  <i class="fab fa-facebook-f"></i>
-                                 <span></span>
-                              </a>
-                              <a class="icon-color-2" href="#">
-                                 <i class="fab fa-instagram"></i>
                                  <span></span>
                               </a>
                               <a class="icon-color-3" href="#">
@@ -325,10 +317,6 @@
                                  <i class="fab fa-facebook-f"></i>
                                  <span></span>
                               </a>
-                              <a class="icon-color-2" href="#">
-                                 <i class="fab fa-instagram"></i>
-                                 <span></span>
-                              </a>
                               <a class="icon-color-3" href="#">
                                  <i class="fab fa-twitter"></i>
                                  <span></span>
@@ -352,10 +340,6 @@
                            <div class="tp-team-social">
                               <a class="icon-color-1" href="#">
                                  <i class="fab fa-facebook-f"></i>
-                                 <span></span>
-                              </a>
-                              <a class="icon-color-2" href="#">
-                                 <i class="fab fa-instagram"></i>
                                  <span></span>
                               </a>
                               <a class="icon-color-3" href="#">
@@ -546,7 +530,7 @@
                         </div>
                         <div class="col-lg-3 col-md-3">
                            <div class="job-post-apply-btn text-start text-md-end">
-                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="career-details.html"><span>Apply</span> <b></b></a>
+                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="contact.php"><span>Apply</span> <b></b></a>
                            </div>
                         </div>
                      </div>
@@ -580,7 +564,7 @@
                         </div>
                         <div class=" col-lg-3 col-md-3">
                            <div class="job-post-apply-btn text-start text-md-end">
-                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="career-details.html"><span>Apply</span> <b></b></a>
+                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="contact.php"><span>Apply</span> <b></b></a>
                            </div>
                         </div>
                      </div>
@@ -614,7 +598,7 @@
                         </div>
                         <div class=" col-lg-3 col-md-3">
                            <div class="job-post-apply-btn text-start text-md-end">
-                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="career-details.html"><span>Apply</span> <b></b></a>
+                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="contact.php"><span>Apply</span> <b></b></a>
                            </div>
                         </div>
                      </div>
@@ -648,7 +632,7 @@
                         </div>
                         <div class=" col-lg-3 col-md-3">
                            <div class="job-post-apply-btn text-start text-md-end">
-                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="career-details.html"><span>Apply</span> <b></b></a>
+                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="contact.php"><span>Apply</span> <b></b></a>
                            </div>
                         </div>
                      </div>
@@ -682,7 +666,7 @@
                         </div>
                         <div class=" col-lg-3 col-md-3">
                            <div class="job-post-apply-btn text-start text-md-end">
-                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="career-details.html"><span>Apply</span> <b></b></a>
+                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="contact.php"><span>Apply</span> <b></b></a>
                            </div>
                         </div>
                      </div>
@@ -702,7 +686,7 @@
                               <h3 class="tp-section-title text-white">Try our service now!</h3>
                               <p>Eyerything you need to accept cord payments and grow your business <br>
                                  anywhere on the planet.</p>
-                                 <a class="tp-btn-inner white-bg text-black" href="service-details.html">Get Started Now</a>
+                                 <a class="tp-btn-inner white-bg text-black" href="register.php">Get Started Now</a>
                            </div>
                         </div>
                      </div>

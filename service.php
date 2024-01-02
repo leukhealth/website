@@ -272,7 +272,7 @@ include('inc/header.php');
                         <div class="tp-sales-section-box pb-20">
                            <h3 class="tp-section-title pb-15">Track and Analyze Sales in Real time</h3>
                            <p>Centralize and simplify payments, and get comprehensive <br>
-                              insights on your financials softuch.! </p>
+                              insights on your financials Leuk Health.! </p>
                         </div>
                         <div class="tp-sales-feature">
                            <ul>
@@ -495,14 +495,14 @@ include('inc/header.php');
                                  <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                       Why should I choose Softec?
+                                       Why should I choose Leuk Health?
                                        <span class="accordion-btn"></span>
                                     </button>
                                  </h2>
                                  <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                       The Softec Shop is built right into your account dashboard, and is accessible
+                                       The Leuk Health Shop is built right into your account dashboard, and is accessible
                                        immediately after signing up.
                                     </div>
                                  </div>
@@ -518,7 +518,7 @@ include('inc/header.php');
                                  <div id="collapseTwo" class="accordion-collapse collapse show" aria-labelledby="headingTwo"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                       The Softec Shop is built right into your account dashboard, and is accessible
+                                       The Leuk Health Shop is built right into your account dashboard, and is accessible
                                        immediately after signing up.
                                     </div>
                                  </div>
@@ -534,7 +534,7 @@ include('inc/header.php');
                                  <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                       The Softec Shop is built right into your account dashboard, and is accessible
+                                       The Leuk Health Shop is built right into your account dashboard, and is accessible
                                        immediately after signing up.
                                     </div>
                                  </div>
@@ -550,7 +550,7 @@ include('inc/header.php');
                                  <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                       The Softec Shop is built right into your account dashboard, and is accessible
+                                       The Leuk Health Shop is built right into your account dashboard, and is accessible
                                        immediately after signing up.
                                     </div>
                                  </div>
@@ -566,7 +566,7 @@ include('inc/header.php');
                                  <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                       The Softec Shop is built right into your account dashboard, and is accessible
+                                       The Leuk Health Shop is built right into your account dashboard, and is accessible
                                        immediately after signing up.
                                     </div>
                                  </div>

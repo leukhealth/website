@@ -489,7 +489,7 @@ include('inc/header.php');
                                        </span>
                                     </div>
                                     <div class="tp-testimonial-2-content">
-                                       <p>"Is it possible to Love your credit card processor? with Softec, yes!"</p>
+                                       <p>"Is it possible to Love your credit card processor? with Leuk Health, yes!"</p>
                                     </div>
                                     <div class="tp-testimonial-2-author d-flex align-items-center">
                                        <div class="tp-testimonial-2-img">
@@ -540,7 +540,7 @@ include('inc/header.php');
                                        </span>
                                     </div>
                                     <div class="tp-testimonial-2-content">
-                                       <p>"Is it possible to Love your credit card processor? with Softec, yes!"</p>
+                                       <p>"Is it possible to Love your credit card processor? with Leuk Health, yes!"</p>
                                     </div>
                                     <div class="tp-testimonial-2-author d-flex align-items-center">
                                        <div class="tp-testimonial-2-img">
@@ -591,7 +591,7 @@ include('inc/header.php');
                                        </span>
                                     </div>
                                     <div class="tp-testimonial-2-content">
-                                       <p>"Is it possible to Love your credit card processor? with Softec, yes!"</p>
+                                       <p>"Is it possible to Love your credit card processor? with Leuk Health, yes!"</p>
                                     </div>
                                     <div class="tp-testimonial-2-author d-flex align-items-center">
                                        <div class="tp-testimonial-2-img">
@@ -642,7 +642,7 @@ include('inc/header.php');
                                        </span>
                                     </div>
                                     <div class="tp-testimonial-2-content">
-                                       <p>"Is it possible to Love your credit card processor? with Softec, yes!"</p>
+                                       <p>"Is it possible to Love your credit card processor? with Leuk Health, yes!"</p>
                                     </div>
                                     <div class="tp-testimonial-2-author d-flex align-items-center">
                                        <div class="tp-testimonial-2-img">
@@ -689,14 +689,14 @@ include('inc/header.php');
                                  <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                       Why should I choose Softec?
+                                       Why should I choose Leuk Health?
                                        <span class="accordion-btn"></span>
                                     </button>
                                  </h2>
                                  <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                       The Softec Shop is built right into your account dashboard, and is accessible
+                                       The Leuk Health Shop is built right into your account dashboard, and is accessible
                                        immediately after signing up.
                                     </div>
                                  </div>
@@ -712,7 +712,7 @@ include('inc/header.php');
                                  <div id="collapseTwo" class="accordion-collapse collapse show"
                                     aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                       The Softec Shop is built right into your account dashboard, and is accessible
+                                       The Leuk Health Shop is built right into your account dashboard, and is accessible
                                        immediately after signing up.
                                     </div>
                                  </div>
@@ -729,7 +729,7 @@ include('inc/header.php');
                                  <div id="collapseThree" class="accordion-collapse collapse"
                                     aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                       The Softec Shop is built right into your account dashboard, and is accessible
+                                       The Leuk Health Shop is built right into your account dashboard, and is accessible
                                        immediately after signing up.
                                     </div>
                                  </div>
@@ -746,7 +746,7 @@ include('inc/header.php');
                                  <div id="collapseFour" class="accordion-collapse collapse"
                                     aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                       The Softec Shop is built right into your account dashboard, and is accessible
+                                       The Leuk Health Shop is built right into your account dashboard, and is accessible
                                        immediately after signing up.
                                     </div>
                                  </div>
@@ -763,7 +763,7 @@ include('inc/header.php');
                                  <div id="collapseFive" class="accordion-collapse collapse"
                                     aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                       The Softec Shop is built right into your account dashboard, and is accessible
+                                       The Leuk Health Shop is built right into your account dashboard, and is accessible
                                        immediately after signing up.
                                     </div>
                                  </div>
@@ -787,7 +787,7 @@ include('inc/header.php');
                               <h3 class="tp-section-title-lg text-white">Try our service now!</h3>
                               <p>Eyerything you need to accept cord payments and grow your business <br>
                                  anywhere on the planet.</p>
-                              <a class="tp-btn-green" href="service-details.php">Get Started Now</a>
+                              <a class="tp-btn-green" href="register.php">Get Started Now</a>
                            </div>
                         </div>
                      </div>

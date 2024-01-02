@@ -4,7 +4,7 @@
 <head>
    <meta charset="utf-8">
    <meta http-equiv="x-ua-compatible" content="ie=edge">
-   <title>Softec - Data analytics HTML5 Template</title>
+   <title>Leuk Health - Data analytics HTML5 Template</title>
    <meta name="description" content="">
    <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -505,7 +505,7 @@
                               <a class="linkedin" href="#"><i class="fab fa-linkedin-in"></i></a>
                            </div>
                            <div class="career-details-bottom-text text-center">
-                              <a href="#">Employee at Softec?</a>
+                              <a href="#">Employee at Leuk Health?</a>
                            </div>
                         </div>
                      </div>

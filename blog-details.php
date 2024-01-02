@@ -4,7 +4,7 @@
 <head>
    <meta charset="utf-8">
    <meta http-equiv="x-ua-compatible" content="ie=edge">
-   <title>Softec - Data analytics HTML5 Template</title>
+   <title>Leuk Health - Data analytics HTML5 Template</title>
    <meta name="description" content="">
    <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -286,7 +286,7 @@
                                     </svg>
                                  </div>
                                  <div class="postbox__details-qoute-text">
-                                    <p>“The team at @softecagency is incredibly dedicated, knowledgeable, and helpful.</p>
+                                    <p>“The team at @Leuk Health agency is incredibly dedicated, knowledgeable, and helpful.</p>
                                     <span>Socrates</span>
                                  </div>
                               </blockquote>
@@ -555,7 +555,7 @@
                            <div class="sidebar__widget-content">
                               <ul>
                                  <li><a href="blog.html"><span><i class="fal fa-angle-right"></i>Technology</span><span>01</span></a></li>
-                                 <li><a href="blog.html"><span><i class="fal fa-angle-right"></i>Softec</span><span>02</span></a></li>
+                                 <li><a href="blog.html"><span><i class="fal fa-angle-right"></i>Leuk Health</span><span>02</span></a></li>
                                  <li><a href="blog.html"><span><i class="fal fa-angle-right"></i>Development</span><span>03</span></a></li>
                                  <li><a href="blog.html"><span><i class="fal fa-angle-right"></i>Tips & Tricks</span><span>04</span></a></li>
                                  <li><a href="blog.html"><span><i class="fal fa-angle-right"></i>News</span><span>05</span></a></li>
