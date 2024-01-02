@@ -83,7 +83,7 @@
                               </li>
                               <li><a href="service.php">Service</a></li>
                               <li>
-                                 <a href="service-details.php">About</a>
+                                 <a href="about.php">About</a>
                                  <ul class="submenu">
                                     <li><a href="about.php">About</a></li>
                                     <li><a href="team.php">Team</a></li>

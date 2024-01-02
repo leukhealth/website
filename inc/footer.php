@@ -15,7 +15,8 @@
                   </div>
                   <div class="tp-footer__contact-info">
                      <a href="https://www.google.com.bd/maps/place/%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%97/@49.8143242,5.5590915,10z/data=!3m1!4b1!4m5!3m4!1s0x479545b9ca212147:0x64db60f602d392ef!8m2!3d49.815273!4d6.129583"
-                        target="_blank">1811 Silverside Rd, Wilmington,<br>DE 19810, USA</a>
+                        target="_blank">Second floor no 18 19, 3rd cross street, Iyyappa
+                                         Nagar, ponniammanmedu, Thiruvallur,<br> Tamil Nadu, 600110</a>
                      <ul>
                         <li>
                            <span>
@@ -32,7 +33,7 @@
                                     fill="#01103D" />
                               </svg>
                            </span>
-                           <a class="first-child" href="tel:+806(000)8899">+806 (000) 88 99</a>
+                           <a class="first-child" href="tel:+806(000)8899">+91 9398160620</a>
                         </li>
                         <li>
                            <span>
@@ -49,7 +50,7 @@
                                     fill="#1C274C" />
                               </svg>
                            </span>
-                           <a href="mailto:contact@info.com">contact@info.com</a>
+                           <a href="mailto:support@leukhealth.com">support@leukhealth.com</a>
                         </li>
                      </ul>
                   </div>
@@ -114,7 +115,8 @@
             </div>
             <div class="col-xl-6 col-lg-6 col-md-6  d-none d-md-block">
                <div class="tp-copyright__text tp-copyright__text-2 text-center">
-                  <span>Full Copyright & Design By <a href="#">@Theme pure</a> – 2023</span>
+                  <!-- <span>Full Copyright & Design By <a href="#">@Theme pure</a> – 2023</span> -->
+                  <span>© 2024, LEUK TECHNOLOGIES PRIVATE LIMITED</span>
                </div>
             </div>
             <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6">
