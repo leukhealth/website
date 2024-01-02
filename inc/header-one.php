@@ -48,12 +48,12 @@
                <div class="row g-0 align-items-center">
                   <div class="col-xl-2 col-lg-2 col-md-6 col-6">
                      <div class="tp-header-2__logo">
-                        <a class="white-logo" href="index.php"><img class="w-60" src="assets/img/logo/leuk-logo-white.png" alt=""></a>
+                        <a class="white-logo" href="index.php"><img class="w-60" src="assets/img/logo/leuk-logo.png" alt=""></a>
                         <a class="black-logo" href="index.php"><img class="w-60" src="assets/img/logo/leuk-logo.png" alt=""></a>
                      </div>
                   </div>
                   <div class="col-xl-7 col-lg-7 d-none d-lg-block">
-                     <div class="tp-header-2__main-menu text-center">
+                     <div class="tp-header-2__main-menu secound-header text-center">
                         <nav id="mobile-menu">
                            <ul>
                               <li>
@@ -115,7 +115,7 @@
                   <div class="col-xl-3 col-lg-3 col-md-6 col-6">
                      <div class="tp-header-2__right d-flex align-items-center justify-content-end">
                         <!-- <a class="tp-header-2__login d-none d-md-block" href="register.php">Login</a> -->
-                        <a class="tp-header-2__login d-none d-md-block" href="https://doctor.leukhealth.com/login" target="_blank">Login</a>
+                        <a class="tp-header-2__login sec-header d-none d-md-block" href="https://doctor.leukhealth.com/login" target="_blank">Login</a>
                         <a class="tp-btn-green-sm d-none d-md-block" href="register.php">Sign Up</a>
                         <a class="header-bottom__bar tp-menu-bar d-lg-none" href="javascript:void(0)"><i class="fal fa-bars"></i></a>
                      </div>
