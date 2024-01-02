@@ -8,11 +8,13 @@
          <div class="row">
             <div class="col-xl-3 col-lg-3 col-md-6 pb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                <div class="tp-footer__widget footer-widget-2 footer-col-2-1">
-                  <div class="tp-footer__logo mb-25">
+               <h4 class="tp-footer__widget-title">Address</h4>
+                  <!-- <div class="tp-footer__logo ">
+                  
                      <a href="index.php">
                         <img src="assets/img/logo/logo-black.png" alt="">
                      </a>
-                  </div>
+                  </div> -->
                   <div class="tp-footer__contact-info">
                      <a href="https://www.google.com.bd/maps/place/%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%97/@49.8143242,5.5590915,10z/data=!3m1!4b1!4m5!3m4!1s0x479545b9ca212147:0x64db60f602d392ef!8m2!3d49.815273!4d6.129583"
                         target="_blank">Second floor no 18 19, 3rd cross street, Iyyappa
@@ -88,13 +90,14 @@
             <div class="col-xl-3 col-lg-3 col-md-6 pb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".9s">
                <div class="tp-footer__widget footer-widget-2 footer-col-2-4">
                   <h4 class="tp-footer__widget-title">Download App</h4>
-                  <div class="tp-footer__download-box d-flex align-items-center">
-                     <div class="tp-footer__qrcode mr-15">
-                       <a href="#"> <img src="assets/img/footer/dwnld-1.png" alt=""></a>
+                  <div class="row tp-footer__download-box d-flex align-items-center">
+                     <div class="col-md-6 tp-footer__qrcode">
+                        <img src="assets/img/footer/qr-code.png">
                      </div>
-                     <div class="tp-footer__app">
-                        <a href=""><img class="mb-15" src="assets/img/footer/dwnld-2.png" alt=""></a>
-                       <a href="https://play.google.com/store/apps/details?id=com.leukhealth.patient" target="_blank"><img src="assets/img/footer/dwnld-3.png" alt=""></a>
+                     <div class="col-md-6 tp-footer__app">
+                          <a href=""><img class="mb-15" src="assets/img/footer/dwnld-2.png" alt=""></a>
+                          <a href="https://play.google.com/store/apps/details?id=com.leukhealth.patient" target="_blank">
+                            <img src="assets/img/footer/dwnld-3.png" alt=""></a>
                      </div>
                   </div>
                </div>

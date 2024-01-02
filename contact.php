@@ -224,7 +224,7 @@
                         <img src="assets/img/contact/contact-icon-sm-2.png" alt="">
                      </div>
                      <div class="contact-inner-link">
-                        <a href="tel:919398160620">+91 9398160620</a>
+                        <a href="tel:919398160620">+91 93981 60620</a>
                      </div>
                   </div>
                </div>
@@ -235,7 +235,7 @@
                      </div>
                      <div class="contact-inner-link">
                         <a href="https://www.google.com.bd/maps/@23.7806365,90.4193257,12z" target="_blank">
-                           Chenni,Tamil Nadu.</a>
+                           Chenni, Tamil Nadu.</a>
                      </div>
                   </div>
                </div>

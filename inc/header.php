@@ -66,6 +66,7 @@
                                     <li><a href="index-5.php">Saas</a></li>
                                  </ul>
                               </li>
+                              <li><a href="service.php">For Patient</a></li>
                               <li>
                                  <a href="#">For Doctors</a>
                                  <ul class="submenu">
@@ -81,24 +82,24 @@
                                     <li><a href="404.php">404</a></li>
                                  </ul>
                               </li>
-                              <li><a href="service.php">Service</a></li>
+                              <!-- <li><a href="service.php">Service</a></li> -->
                               <li>
                                  <a href="about.php">About</a>
                                  <ul class="submenu">
-                                    <li><a href="about.php">About</a></li>
+                                    <li><a href="about.php">About Us</a></li>
                                     <li><a href="team.php">Team</a></li>
                                     <li><a href="career.php">Career</a></li>
                                  </ul>
                               </li>
-                              <li>
+                              <!-- <li>
                                  <a href="blog.php">Blog</a>
-                                 <!-- <ul class="submenu">
+                                 <ul class="submenu">
                                     <li><a href="blog.php">Blog</a></li>
                                     <li><a href="blog-list.php">Blog List</a></li>
                                     <li><a href="blog-details.php">Blog Details</a></li>
                                     <li><a href="blog-details-2.php">Blog Details 02</a></li>
-                                 </ul> -->
-                              </li>
+                                 </ul>
+                              </li> -->
                               <!-- <li>
                                  <a href="project-details.php">Portfoilo</a>
                                  <ul class="submenu">
