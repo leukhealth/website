@@ -47,7 +47,7 @@ include('inc/header.php');
             <!-- tp-breadcrumb-header-area-end -->
 
             <!-- tp-contact-area-strat -->
-            <div class="contact-info-area pb-90">
+            <!-- <div class="contact-info-area pb-90">
                <div class="container">
                   <div class="row">
                      <div class="col-xl-4 col-lg-4 mb-30">
@@ -91,7 +91,7 @@ include('inc/header.php');
                      </div>
                   </div>
                </div>
-            </div>
+            </div> -->
 
             <div class="contact-form-area pb-120">
                <div class="container">
@@ -132,24 +132,27 @@ include('inc/header.php');
                      <div class="col-xl-7 col-lg-6">
                         <div class="contact-form-right-warp">
                            <div class="postbox__comment-form">
-                              <form action="#" class="box">
+                              <form id="contactus-form" action="" class="box">
                                  <div class="row gx-20">
                                     <div class="col-12">
                                        <div class="postbox__comment-input mb-30">
-                                          <input type="text" class="inputText" required>
+                                          <input id="contact_name" name="contact_name" type="text" class="inputText" required>
                                           <span class="floating-label">Full  Name</span>
+                                       <span class="error-message" id="contact_name-error"></span>
                                        </div>
                                     </div>
                                     <div class="col-12">
                                        <div class="postbox__comment-input mb-30">
-                                          <input type="text" class="inputText" required>
+                                          <input id="contact_email" name="contact_email" type="text" class="inputText" required>
                                           <span class="floating-label">Your Email</span>
+                                       <span class="error-message" id="contact_email-error"></span>
                                        </div>
                                     </div>
                                     <div class="col-12">
                                        <div class="postbox__comment-input mb-35">
-                                          <input type="text" class="inputText" required>
+                                          <input id="contact_phone" name="contact_phone" type="text" class="inputText" required>
                                           <span class="floating-label">Phone Number</span>
+                                       <span class="error-message" id="contact_phone-error"></span>
                                        </div>
                                     </div>
                                     <div class="col-12">
@@ -166,7 +169,7 @@ include('inc/header.php');
                                     </div>
                                     <div class="col-xxl-12">
                                        <div class="postbox__comment-input mb-30">
-                                          <textarea class="textareaText" required></textarea>
+                                          <textarea id="contact_message" name="contact_message" class="textareaText" required></textarea>
                                           <span class="floating-label-2">Message...</span>
                                        </div>
                                     </div>
@@ -202,7 +205,7 @@ include('inc/header.php');
                                  <img src="assets/img/contact/contact-icon-sm-1.png" alt="">
                               </div>
                               <div class="contact-inner-link">
-                                 <a href="mailto:contact@softuch.com">contact@softuch.com</a>
+                                 <a href="mailto:support@leukhealth.com">support@leukhealth.com</a>
                               </div>
                            </div>
                         </div>
@@ -212,7 +215,7 @@ include('inc/header.php');
                                  <img src="assets/img/contact/contact-icon-sm-2.png" alt="">
                               </div>
                               <div class="contact-inner-link">
-                                 <a href="tel:12025550144">+1-202-555-0144</a>
+                                 <a href="tel:919398160620">+91 9398160620</a>
                               </div>
                            </div>
                         </div>
@@ -222,7 +225,9 @@ include('inc/header.php');
                                  <img src="assets/img/contact/contact-icon-sm-3.png" alt="">
                               </div>
                               <div class="contact-inner-link">
-                                 <a href="https://www.google.com.bd/maps/@23.7806365,90.4193257,12z" target="_blank">35Park Avenue, Uk</a>
+                                 <a href="https://www.google.com.bd/maps/@23.7806365,90.4193257,12z" target="_blank">
+                                          Second floor no 18 19, 3rd cross street, Iyyappa Nagar, ponniammanmedu, Thiruvallur,
+                                          Tamil Nadu, 600110</a>
                               </div>
                            </div>
                         </div>
@@ -251,6 +256,8 @@ include('inc/header.php');
                </div>
             </div>
             <!-- tp-cta-area-end -->
+
+            <script src="assets/js/script.js"></script>
 
             <?php
     include('inc/footer.php');

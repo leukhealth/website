@@ -94,7 +94,7 @@
                      </div>
                      <div class="tp-footer__app">
                         <a href=""><img class="mb-15" src="assets/img/footer/dwnld-2.png" alt=""></a>
-                       <a href="#"><img src="assets/img/footer/dwnld-3.png" alt=""></a>
+                       <a href="https://play.google.com/store/apps/details?id=com.leukhealth.patient" target="_blank"><img src="assets/img/footer/dwnld-3.png" alt=""></a>
                      </div>
                   </div>
                </div>

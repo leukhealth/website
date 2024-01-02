@@ -12094,7 +12094,7 @@ input[type=color] {
   position: absolute;
   pointer-events: none;
   left: 20px;
-  top: 50%;
+  top: 40%;
   transform: translateY(-50%);
   transition: 0.2s ease all;
 }
@@ -15681,7 +15681,7 @@ input[type=color] {
 }
 .contact-inner-link a {
   font-weight: 400;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 16px;
   color: #5F6168;
 }
@@ -15689,6 +15689,12 @@ input[type=color] {
   .contact-inner-link a {
     font-size: 16px;
   }
+}
+.error-message {
+  color:#F85130;
+  font-size: 14px;
+  display: flex;
+  padding: 5px;
 }
 
 .contact-form-section-box p {

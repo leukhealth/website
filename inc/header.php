@@ -113,7 +113,8 @@
                   </div>
                   <div class="col-xl-3 col-lg-3 col-md-6 col-6">
                      <div class="tp-header-2__right d-flex align-items-center justify-content-end">
-                        <a class="tp-header-2__login d-none d-md-block" href="register.php">Login</a>
+                        <!-- <a class="tp-header-2__login d-none d-md-block" href="register.php">Login</a> -->
+                        <a class="tp-header-2__login d-none d-md-block" href="https://doctor.leukhealth.com/login" target="_blank">Login</a>
                         <a class="tp-btn-green-sm d-none d-md-block" href="sign-in.php">Sign Up</a>
                         <a class="header-bottom__bar tp-menu-bar d-lg-none" href="javascript:void(0)"><i class="fal fa-bars"></i></a>
                      </div>
