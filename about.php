@@ -55,7 +55,7 @@
                      <div class="row">
                         <div class="col-12">
                            <div class="ab-brand-section-box text-center mb-50">
-                              <h4 class="ab-brand-title">Our mission is to make healthcare more accessible</h4>
+                              <h4 class="ab-brand-title">Our mission is to make <br> healthcare more accessible</h4>
                               <p>Helping every Doctor efficiently consume the most relevant and accurate medical information and make informed clinical decisions</p>
                            </div>
                         </div>
