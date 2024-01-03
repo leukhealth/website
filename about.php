@@ -122,22 +122,24 @@
                   <div class="row ab-company-section-space">
                      <div class="col-xl-6">
                         <div class="ab-company-section-box">
-                           <h4 class="inner-section-subtitle">ABOUT THE COMPANY</h4>
-                           <h3 class="tp-section-title">Leuk Health is Made <br>
-                              For the Creator.</h3>
+                           <!-- <h4 class="inner-section-subtitle">ABOUT THE COMPANY</h4> -->
+                           <h3 class="tp-section-title">Who We Are?</h3>
                         </div>
                      </div>
                      <div class="col-xl-6 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".5s">
                         <div class="ab-company-right">
                            <div class="ab-company-section-text">
-                              <p class="pb-10">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rutrum arcu sollicitudin viverra sit elit leo in. Vitae eu tellus mattis quis. Eu, tempus donec nam mauris egestas. Id aliquet ultricies ligula tellus arcu dolor. Massa arcu pulvinar in mattis</p>
-                              <p class="pb-10">Feugiat purus congue risus, blandit a sed. In aenean quam aenean purus dictum pellentesque consequat.!</p>
-                              <p><span>Our clean and simple APIs and transparent SaaS model will give you complete peace of mind.</span></p>
+                              <p class="pb-10">We are a team of doctors and technologists who want to bring the best of healthcare to every person in this world. We firmly believe that good healthcare
+                                  starts with people who need to take control of their health, irrespective of skill level, education level, or income level.</p>
+                              <p class="pb-10">Also, easy storage and exchange of health information among patients, doctors, 
+                                 and healthcare providers is fundamental to better medical decision-making.</p>
+                                 <p class="pb-10">Leuk.health is our attempt to empower people and healthcare providers to make better decisions.
+                                  We will use an optimal mix of human and technological approaches to build sustainable solutions.</p>
                            </div>
                         </div>
                      </div>
                   </div>
-                  <div class="row align-items-center">
+                  <!-- <div class="row align-items-center">
                      <div class="col-xl-4">
                         <div class="ab-company-video">
                            <a class="popup-video" href="https://www.youtube.com/watch?v=EW4ZYb3mCZk"><i class="fas fa-play"></i></a>
@@ -175,7 +177,7 @@
                            </div>
                         </div>
                      </div>
-                  </div>
+                  </div> -->
                </div>
             </div>
             <!--ab-company-area-end -->
@@ -206,17 +208,16 @@
                      <div class="col-xl-6 col-lg-6 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".6s">
                         <div class="tp-about__right">
                            <div class="tp-about__section-box">
-                              <h4 class="tp-section-subtitle">OVER 150K+ CLIENT</h4>
-                              <h3 class="tp-section-title mb-15">We Offer Real Time Data Solutions
-                              </h3>
-                              <p>Excepteur sint occaecat cupidatat officia non proident <br>
-                                 sunt in culpa qui deserunt.!</p>
+                              <!-- <h4 class="tp-section-subtitle">OVER 150K+ CLIENT</h4> -->
+                              <h3 class="tp-section-title mb-15">Our Vision</h3>
+                              <p>To improve the health of our community and bring the best of healthcare to everyone by Empowering Personal Health</p>
                            </div>
                            <div class="tp-about__list">
                               <ul>
-                                 <li><i class="fal fa-check"></i>Various analysis options.</li>
-                                 <li><i class="fal fa-check"></i>Page Load (time, size, number of requests).</li>
-                                 <li><i class="fal fa-check"></i>Big data analysis.</li>
+                                 <li><i class="fal fa-check"></i>Easy access to high-quality health care</li>
+                                 <li><i class="fal fa-check"></i>Connect with health services</li>
+                                 <li><i class="fal fa-check"></i>Online Medicine orders</li>
+                                 <li><i class="fal fa-check"></i>Lab orders</li>
                               </ul>
                            </div>
                            <div class="tp-about__btn">
@@ -231,6 +232,30 @@
                </div>
             </div>
             <!-- tp-about-area-end -->
+
+             <!--ab-company-area-start -->
+             <div class="ab-company-area pt-105 pb-100">
+               <div class="container">
+                  <div class="row ab-company-section-space">
+                     <div class="col-xl-6">
+                        <div class="ab-company-section-box">
+                           <h3 class="tp-section-title">OUR MISSION</h3>
+                        </div>
+                     </div>
+                     <div class="col-xl-6 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".5s">
+                        <div class="ab-company-right">
+                           <div class="ab-company-section-text">
+                           <p class="pb-10">We are on the mission of making healthcare more accessible</p>
+                              <p class="pb-10">We are determined to help every Doctor efficiently consume the most relevant and accurate medical information and make informed clinical decisions.</p>
+                              <p class="pb-10">Leuk.health implements consensus-based data sharing, end-to-end data encryption, and role-based access controls throughout the platform. 
+                                 This ensures that no one can ever view a patient's health record without their knowledge and consent.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!--ab-company-area-end -->
 
             <!-- tp-team-area-start -->
             <div class="tp-team-area grey-bg pt-120 pb-95">
