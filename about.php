@@ -491,7 +491,7 @@
             <!-- tp-journey-area-end -->
 
             <!-- tp-job-area-start -->
-            <div class="job-area pt-120 pb-120">
+            <!-- <div class="job-area pt-120 pb-120">
                <div class="container">
                   <div class="row">
                      <div class="col-xl-12">
@@ -673,7 +673,7 @@
                      </div>
                   </div>
                </div>
-            </div>
+            </div> -->
             <!-- tp-job-area-end -->
 
             <!-- tp-cta-area-start -->
