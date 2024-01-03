@@ -55,12 +55,12 @@
                      <div class="row">
                         <div class="col-12">
                            <div class="ab-brand-section-box text-center mb-50">
-                              <h4 class="ab-brand-title">Trusted by Thousands Business</h4>
-                              <p>More than 100,000+ teams are using Leuk Health</p>
+                              <h4 class="ab-brand-title">Our mission is to make healthcare more accessible</h4>
+                              <p>Helping every Doctor efficiently consume the most relevant and accurate medical information and make informed clinical decisions</p>
                            </div>
                         </div>
                      </div>
-                     <div class="row justify-content-center">
+                     <!-- <div class="row justify-content-center">
                         <div class="col-xl-10">
                            <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 justify-content-center">
                               <div class="col wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".2s">
@@ -110,7 +110,7 @@
                               </div>
                            </div>
                         </div>
-                     </div>
+                     </div> -->
                   </div>
                </div>
             </div>
