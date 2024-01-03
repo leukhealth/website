@@ -1,5 +1,6 @@
 
    <?php 
+   $title = "About | Connected Health Platform | Leuk Health";
       include('inc/header.php')
       ?>
             <!-- tp-breadcrumb-area-start -->

@@ -3,9 +3,13 @@
 <head>
    <meta charset="utf-8">
    <meta http-equiv="x-ua-compatible" content="ie=edge">
-   <title>Leuk Health</title>
+   <!-- <title>Leuk Health</title> -->
    <meta name="description" content="">
    <meta name="viewport" content="width=device-width, initial-scale=1">
+   <title><?=$title?></title>
+    <meta name="msvalidate.01" content="4F12E6C4554899D24BB2512DA4DF9008" />
+    <meta name="title" content="<?=$title; ?>" />
+    <meta name="ROBOTS" content="FOLLOW,INDEX" />
 
    <!-- Place favicon.ico in the root directory -->
    <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/leuk-logo-title.png">
@@ -55,59 +59,27 @@
                   <div class="col-xl-7 col-lg-7 d-none d-lg-block">
                      <div class="tp-header-2__main-menu text-center">
                         <nav id="mobile-menu">
-                           <ul>
-                              <li>
+                            <ul class="item-nav">
+                              <li <?php echo ($title == 'Leuk Health | Connected Health Platform') ? "class='item active'" : "item"; ?>>
                                  <a href="index.php">Home</a>
-                                 <!-- <ul class="submenu">
-                                    <li><a href="index.php">Data analytics</a></li>
-                                    <li><a href="index-2.php">Payment Gateway</a></li>
-                                    <li><a href="index-3.php">CRM Software</a></li>
-                                    <li><a href="index-4.php">Security Software</a></li>
-                                    <li><a href="index-5.php">Saas</a></li>
-                                 </ul> -->
                               </li>
-                              <li><a href="service.php">For Patient</a></li>
-                              <li>
+                              <li <?php echo ($title == 'For Patients | Connected Health Platform | Leuk Health') ? "class='item active'" : "item"; ?>>
+                                 <a href="service.php">For Patient</a>
+                              </li>
+                              <li <?php echo ($title == 'For Doctors | Connected Health Platform | Leuk Health') ? "class='item active'" : "item"; ?>>
                                  <a href="for-doctors.php">For Doctors</a>
-                                 <!-- <ul class="submenu">
-                                    <li><a href="about.php">About</a></li>
-                                    <li><a href="team.php">Team</a></li>
-                                    <li><a href="team-details.php">Team Details</a></li>
-                                    <li><a href="career.php">Career</a></li>
-                                    <li><a href="career-details.php">Career Details</a></li>
-                                    <li><a href="integrations.php">Integrations</a></li>
-                                    <li><a href="price.php">Price</a></li>
-                                    <li><a href="register.php">Register</a></li>
-                                    <li><a href="sign-in.php">Signin</a></li>
-                                    <li><a href="404.php">404</a></li>
-                                 </ul> -->
                               </li>
                               <!-- <li><a href="service.php">Service</a></li> -->
-                              <li>
+                              <li <?php echo ($title == 'About | Connected Health Platform ') ? "class='item active'" : "item"; ?>>
                                  <a href="about.php">About</a>
                                  <ul class="submenu">
                                     <li><a href="about.php">About Us</a></li>
-                                    <!-- <li><a href="team.php">Team</a></li> -->
                                     <li><a href="career.php">Career</a></li>
                                  </ul>
                               </li>
-                              <!-- <li>
-                                 <a href="blog.php">Blog</a>
-                                 <ul class="submenu">
-                                    <li><a href="blog.php">Blog</a></li>
-                                    <li><a href="blog-list.php">Blog List</a></li>
-                                    <li><a href="blog-details.php">Blog Details</a></li>
-                                    <li><a href="blog-details-2.php">Blog Details 02</a></li>
-                                 </ul>
-                              </li> -->
-                              <!-- <li>
-                                 <a href="project-details.php">Portfoilo</a>
-                                 <ul class="submenu">
-                                    <li><a href="project.php">Project</a></li>
-                                    <li><a href="project-details.php">Project Details</a></li>
-                                 </ul>
-                              </li> -->
-                              <li><a href="contact.php">Contact</a></li>
+                              <li <?php echo ($title == 'Contact | Connected Health Platform | Leuk Health') ? "class='item active'" : "item"; ?>>
+                                 <a href="contact.php">Contact</a>
+                              </li>
                            </ul>
                         </nav>
                      </div>

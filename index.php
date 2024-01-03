@@ -1,4 +1,5 @@
 <?php
+ $title = "Leuk Health | Connected Health Platform";
 include('inc/header.php');
 ?>
 
