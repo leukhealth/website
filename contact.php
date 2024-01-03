@@ -123,7 +123,7 @@
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
                         <a href="#"><i class="fab fa-twitter"></i></a>
                         <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <!-- <a href="#"><i class="fab fa-instagram"></i></a> -->
                      </div>
                      <div class="contact-form-section-img">
                         <img src="assets/img/contact/contact-icon-sm-4.png" alt="">

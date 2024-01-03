@@ -221,7 +221,7 @@
                               </ul>
                            </div>
                            <div class="tp-about__btn">
-                              <a class="tp-btn tp-btn-inner tp-btn-hover alt-color-black" href="about.html">
+                              <a class="tp-btn tp-btn-inner tp-btn-hover alt-color-black" href="about.php">
                                  <span>About Us</span>
                                  <b></b>
                               </a>
@@ -241,14 +241,29 @@
                         <div class="ab-company-section-box">
                            <h3 class="tp-section-title">OUR MISSION</h3>
                         </div>
+                        <div class="ab-company-section-text pt-20">
+                              <p>We are on the mission of making healthcare more accessible</p>
+                              <p>We are determined to help every Doctor efficiently consume the most relevant and accurate medical information and make informed clinical decisions.</p>
+                              <p>Leuk.health implements consensus-based data sharing, end-to-end data encryption, and role-based access controls throughout the platform. 
+                                 This ensures that no one can ever view a patient's health record without their knowledge and consent.</p>
+                        </div>
                      </div>
                      <div class="col-xl-6 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".5s">
-                        <div class="ab-company-right">
-                           <div class="ab-company-section-text">
-                           <p class="pb-10">We are on the mission of making healthcare more accessible</p>
-                              <p class="pb-10">We are determined to help every Doctor efficiently consume the most relevant and accurate medical information and make informed clinical decisions.</p>
-                              <p class="pb-10">Leuk.health implements consensus-based data sharing, end-to-end data encryption, and role-based access controls throughout the platform. 
-                                 This ensures that no one can ever view a patient's health record without their knowledge and consent.</p>
+                     <div class="tp-about__img-wrapper text-center text-lg-end p-relative">
+                           <div class="tp-about__bg-shape">
+                              <img src="assets/img/about/about-bg-shape.png" alt="">
+                           </div>
+                           <div class="tp-about__main-img z-index">
+                              <img src="assets/img/about/about-2.jpg" alt="">
+                           </div>
+                           <div class="tp-about__sub-img-1 d-none d-sm-block z-index-3">
+                              <img src="assets/img/about/about-1.jpg" alt="">
+                           </div>
+                           <div class="tp-about__sub-img-2 d-none d-sm-block">
+                              <img src="assets/img/about/about-3.jpg" alt="">
+                           </div>
+                           <div class="tp-about__sub-img-3 d-none d-sm-block z-index-3">
+                              <img src="assets/img/about/about-5.png" alt="">
                            </div>
                         </div>
                      </div>
@@ -268,14 +283,14 @@
                               <h3 class="tp-section-title mb-0 text-black">Our Leaders</h3>
                            </div>
                         </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6">
+                        <!-- <div class="col-xl-6 col-lg-6 col-md-6">
                            <div class="tp-team-top-content text-center text-md-end">
                               <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="team-details.html">
                                  <span>View All</span>
                                  <b></b>
                               </a>
                            </div>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                   <div class="row">
@@ -285,7 +300,7 @@
                               <img src="assets/img/team/team-4-1.png" alt="">
                            </div>
                            <div class="tp-team-content">
-                              <h4 class="tp-team-title-sm"><a href="team-details.html">Alexa Montes</a></h4>
+                              <h4 class="tp-team-title-sm">Alexa Montes</h4>
                               <span>Partner & COO</span>
                            </div>
                            <div class="tp-team-social">
@@ -310,7 +325,7 @@
                               <img src="assets/img/team/team-4-2.png" alt="">
                            </div>
                            <div class="tp-team-content">
-                              <h4 class="tp-team-title-sm"><a href="team-details.html">Ravi Ganatra</a></h4>
+                              <h4 class="tp-team-title-sm">Ravi Ganatra</h4>
                               <span>Designer</span>
                            </div>
                            <div class="tp-team-social">
@@ -335,7 +350,7 @@
                               <img src="assets/img/team/team-4-3.png" alt="">
                            </div>
                            <div class="tp-team-content">
-                              <h4 class="tp-team-title-sm"><a href="team-details.html">Imdat Cimsit</a></h4>
+                              <h4 class="tp-team-title-sm">Imdat Cimsit</h4>
                               <span>CEO & Founder</span>
                            </div>
                            <div class="tp-team-social">
@@ -360,7 +375,7 @@
                               <img src="assets/img/team/team-4-4.png" alt="">
                            </div>
                            <div class="tp-team-content">
-                              <h4 class="tp-team-title-sm"><a href="team-details.html">Imdat Cimsit</a></h4>
+                              <h4 class="tp-team-title-sm">Imdat Cimsit</h4>
                               <span>PHP Developer</span>
                            </div>
                            <div class="tp-team-social">

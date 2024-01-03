@@ -56,7 +56,7 @@ $title = "Career | Connected Health Platform | Leuk Health";
             <!-- carrer-banner-area-end -->
 
             <!-- tp-platform-area-start -->
-            <div class="tp-platform-area tp-platform-inner pt-120 p-relative z-index">
+            <!-- <div class="tp-platform-area tp-platform-inner pt-120 p-relative z-index">
                <div class="container">
                   <div class="row align-items-end mb-60">
                      <div class="col-xl-7 col-lg-6 wow tpfadeLeft" data-wow-duration=".9s" data-wow-delay=".3s">
@@ -151,7 +151,7 @@ $title = "Career | Connected Health Platform | Leuk Health";
                      </div>
                   </div>
                </div>
-            </div>
+            </div> -->
             <!-- tp-platform-area-end -->
 
             <!-- tp-job-area-start -->
@@ -189,13 +189,13 @@ $title = "Career | Connected Health Platform | Leuk Health";
                                     <path d="M1 7.51463C1 3.9167 4.13401 1 8 1C11.866 1 15 3.9167 15 7.51463C15 11.0844 12.7658 15.2499 9.28007 16.7396C8.46748 17.0868 7.53252 17.0868 6.71993 16.7396C3.23416 15.2499 1 11.0844 1 7.51463Z" stroke="#5F6168" stroke-width="1.5"/>
                                     <path d="M10 8C10 9.10457 9.10457 10 8 10C6.89543 10 6 9.10457 6 8C6 6.89543 6.89543 6 8 6C9.10457 6 10 6.89543 10 8Z" stroke="#5F6168" stroke-width="1.5"/>
                                  </svg>
-                                 <span>Newark, NJ</span>
+                                 <span>Hyderabad, India</span>
                               </div>
                            </div>
                         </div>
                         <div class="col-lg-3 col-md-3">
                            <div class="job-post-apply-btn text-start text-md-end">
-                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="career-details.html"><span>Apply</span> <b></b></a>
+                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="contact.php"><span>Apply</span> <b></b></a>
                            </div>
                         </div>
                      </div>
@@ -223,13 +223,13 @@ $title = "Career | Connected Health Platform | Leuk Health";
                                     <path d="M1 7.51463C1 3.9167 4.13401 1 8 1C11.866 1 15 3.9167 15 7.51463C15 11.0844 12.7658 15.2499 9.28007 16.7396C8.46748 17.0868 7.53252 17.0868 6.71993 16.7396C3.23416 15.2499 1 11.0844 1 7.51463Z" stroke="#5F6168" stroke-width="1.5"/>
                                     <path d="M10 8C10 9.10457 9.10457 10 8 10C6.89543 10 6 9.10457 6 8C6 6.89543 6.89543 6 8 6C9.10457 6 10 6.89543 10 8Z" stroke="#5F6168" stroke-width="1.5"/>
                                  </svg>
-                                 <span>London, UK</span>
+                                 <span>Hyderabad, India</span>
                               </div>
                            </div>
                         </div>
                         <div class=" col-lg-3 col-md-3">
                            <div class="job-post-apply-btn text-start text-md-end">
-                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="career-details.html"><span>Apply</span> <b></b></a>
+                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="contact.php"><span>Apply</span> <b></b></a>
                            </div>
                         </div>
                      </div>
@@ -257,13 +257,13 @@ $title = "Career | Connected Health Platform | Leuk Health";
                                     <path d="M1 7.51463C1 3.9167 4.13401 1 8 1C11.866 1 15 3.9167 15 7.51463C15 11.0844 12.7658 15.2499 9.28007 16.7396C8.46748 17.0868 7.53252 17.0868 6.71993 16.7396C3.23416 15.2499 1 11.0844 1 7.51463Z" stroke="#5F6168" stroke-width="1.5"/>
                                     <path d="M10 8C10 9.10457 9.10457 10 8 10C6.89543 10 6 9.10457 6 8C6 6.89543 6.89543 6 8 6C9.10457 6 10 6.89543 10 8Z" stroke="#5F6168" stroke-width="1.5"/>
                                  </svg>
-                                 <span>Brooklyn, NY</span>
+                                 <span>Hyderabad, India</span>
                               </div>
                            </div>
                         </div>
                         <div class=" col-lg-3 col-md-3">
                            <div class="job-post-apply-btn text-start text-md-end">
-                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="career-details.html"><span>Apply</span> <b></b></a>
+                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="contact.php"><span>Apply</span> <b></b></a>
                            </div>
                         </div>
                      </div>
@@ -291,13 +291,13 @@ $title = "Career | Connected Health Platform | Leuk Health";
                                     <path d="M1 7.51463C1 3.9167 4.13401 1 8 1C11.866 1 15 3.9167 15 7.51463C15 11.0844 12.7658 15.2499 9.28007 16.7396C8.46748 17.0868 7.53252 17.0868 6.71993 16.7396C3.23416 15.2499 1 11.0844 1 7.51463Z" stroke="#5F6168" stroke-width="1.5"/>
                                     <path d="M10 8C10 9.10457 9.10457 10 8 10C6.89543 10 6 9.10457 6 8C6 6.89543 6.89543 6 8 6C9.10457 6 10 6.89543 10 8Z" stroke="#5F6168" stroke-width="1.5"/>
                                  </svg>
-                                 <span>Newark, NJ</span>
+                                 <span>Hyderabad, India</span>
                               </div>
                            </div>
                         </div>
                         <div class=" col-lg-3 col-md-3">
                            <div class="job-post-apply-btn text-start text-md-end">
-                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="career-details.html"><span>Apply</span> <b></b></a>
+                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="contact.php"><span>Apply</span> <b></b></a>
                            </div>
                         </div>
                      </div>
@@ -325,13 +325,13 @@ $title = "Career | Connected Health Platform | Leuk Health";
                                     <path d="M1 7.51463C1 3.9167 4.13401 1 8 1C11.866 1 15 3.9167 15 7.51463C15 11.0844 12.7658 15.2499 9.28007 16.7396C8.46748 17.0868 7.53252 17.0868 6.71993 16.7396C3.23416 15.2499 1 11.0844 1 7.51463Z" stroke="#5F6168" stroke-width="1.5"/>
                                     <path d="M10 8C10 9.10457 9.10457 10 8 10C6.89543 10 6 9.10457 6 8C6 6.89543 6.89543 6 8 6C9.10457 6 10 6.89543 10 8Z" stroke="#5F6168" stroke-width="1.5"/>
                                  </svg>
-                                 <span>London, UK</span>
+                                 <span>Hyderabad, India</span>
                               </div>
                            </div>
                         </div>
                         <div class=" col-lg-3 col-md-3">
                            <div class="job-post-apply-btn text-start text-md-end">
-                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="career-details.html"><span>Apply</span> <b></b></a>
+                              <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="contact.php"><span>Apply</span> <b></b></a>
                            </div>
                         </div>
                      </div>
